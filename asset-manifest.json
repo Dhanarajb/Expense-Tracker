@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Expense-tracker/static/css/main.c80847ef.css",
+    "main.js": "/Expense-tracker/static/js/main.18334eaa.js",
+    "static/js/787.45da7824.chunk.js": "/Expense-tracker/static/js/787.45da7824.chunk.js",
+    "static/media/iphone.png": "/Expense-tracker/static/media/iphone.98af2314eb7471b8b5cf.png",
+    "index.html": "/Expense-tracker/index.html",
+    "main.c80847ef.css.map": "/Expense-tracker/static/css/main.c80847ef.css.map",
+    "main.18334eaa.js.map": "/Expense-tracker/static/js/main.18334eaa.js.map",
+    "787.45da7824.chunk.js.map": "/Expense-tracker/static/js/787.45da7824.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c80847ef.css",
+    "static/js/main.18334eaa.js"
+  ]
+}
